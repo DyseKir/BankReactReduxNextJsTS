@@ -1,0 +1,80 @@
+{
+	"testimonials": {
+		"individual": [
+			{
+				"text": "YourBank has been my trusted financial partner for years. Their personalized service and innovative digital banking solutions have made managing my finances a breeze.",
+				"author": "Sara T"
+			},
+			{
+				"text": "YourBank's investment advisory services are top-notch. I feel more confident about my financial future with their expert guidance.",
+				"author": "Chris L"
+			},
+			{
+				"text": "The 24/7 customer support from YourBank is phenomenal. They always resolve my issues quickly and professionally.",
+				"author": "Amanda F"
+			},
+			{
+				"text": "Switching to YourBank was the best decision I made. Their user-friendly platform and low fees make banking stress-free.",
+				"author": "Ethan K"
+			},
+			{
+				"text": "I appreciate YourBank's transparency in explaining financial products. It helped me make informed decisions with ease.",
+				"author": "Julia V"
+			},
+			{
+				"text": "YourBank's credit card rewards program is incredible. I've earned so many points that I used for my last vacation!",
+				"author": "Ben M"
+			},
+			{
+				"text": "Thanks to YourBank, I've learned how to budget effectively. Their tools and advice have improved my financial habits.",
+				"author": "Laura J"
+			},
+			{
+				"text": "YourBank's home loan services were quick and hassle-free. I now own my dream home, thanks to their support.",
+				"author": "Mark D"
+			},
+			{
+				"text": "I love the convenience of YourBank's mobile banking app. It allows me to stay on top of my finances and make transactions on the go. The app is user-friendly and secure, giving me peace of mind.",
+				"author": "Emily G"
+			}
+		],
+		"business": [
+			{
+				"text": "As a business owner, YourBank's commercial banking team has been a game-changer. Their deep understanding of my industry and customized financial strategies have helped my company thrive.",
+				"author": "Michael P"
+			},
+			{
+				"text": "YourBank's small business support services are outstanding. From account management to loan options, their offerings are perfectly tailored to meet the needs of entrepreneurs like me.",
+				"author": "Sophia L"
+			},
+			{
+				"text": "Partnering with YourBank has simplified my business operations. Their seamless online banking platform and responsive customer support save me time and effort.",
+				"author": "David R"
+			},
+			{
+				"text": "With YourBank's treasury management services, I've improved cash flow and minimized risks in my business operations.",
+				"author": "Isabella N"
+			},
+			{
+				"text": "YourBank's expertise in international trade financing has enabled my business to expand into new markets smoothly.",
+				"author": "Liam C"
+			},
+			{
+				"text": "The line of credit YourBank provided gave my business the flexibility it needed to handle unexpected expenses.",
+				"author": "Charlotte B"
+			},
+			{
+				"text": "Their competitive loan rates and personalized advice helped me scale my business faster than I thought possible.",
+				"author": "Daniel K"
+			},
+			{
+				"text": "I love how YourBank tailors its services to fit the unique needs of small businesses. It makes a real difference.",
+				"author": "Grace H"
+			},
+			{
+				"text": "YourBank's merchant services made accepting payments easier for my business. Their integration with my systems was seamless.",
+				"author": "Oliver W"
+			}
+		]
+	}
+}
